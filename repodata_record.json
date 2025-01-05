@@ -1,0 +1,19 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "pkginfo-1.10.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "md5": "5ae5095af7ced1e193bb1c67c0c5e6c1",
+  "name": "pkginfo",
+  "sha256": "28407717e6f2622a53fbc4ee67c79d62ceb9417d00cbedb6f10fca6882e710da",
+  "size": 92525,
+  "subdir": "win-64",
+  "timestamp": 1715696167000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pkginfo-1.10.0-py312haa95532_0.conda",
+  "version": "1.10.0"
+}
